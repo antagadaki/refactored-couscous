@@ -44,6 +44,7 @@ public class WordProvider {
         return in.readLine().trim();
     }
 }
+//hangman game
 import java.util.*;
 
 public class HangmanGame {
